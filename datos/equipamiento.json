@@ -1,0 +1,74 @@
+[
+    {
+        "id": "bar",
+        "name": "Barra y discos · Ejemplo",
+        "type": "bar",
+        "bar": 20,
+        "plates": [
+            {
+                "kg": 20,
+                "pairs": 1
+            },
+            {
+                "kg": 10,
+                "pairs": 1
+            },
+            {
+                "kg": 5,
+                "pairs": 1
+            },
+            {
+                "kg": 2.5,
+                "pairs": 1
+            },
+            {
+                "kg": 1.25,
+                "pairs": 1
+            }
+        ]
+    },
+    {
+        "id": "db",
+        "name": "Mancuernas · Ejemplo",
+        "type": "db",
+        "weights": [
+            5,
+            7.5,
+            10,
+            12.5,
+            15,
+            17.5,
+            20
+        ]
+    },
+    {
+        "id": "kb",
+        "name": "Kettlebells · Ejemplo",
+        "type": "kb",
+        "weights": [
+            8,
+            12,
+            16,
+            20,
+            24
+        ]
+    },
+    {
+        "id": "machine",
+        "name": "Polea · Ejemplo",
+        "type": "machine",
+        "weights": [
+            10,
+            15,
+            20,
+            25,
+            30,
+            35,
+            40,
+            45,
+            50,
+            55,
+            60
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "id": "main-2",
+    "name": "Jalón con agarre amplio",
+    "kind": "principal",
+    "equipment": "machine",
+    "sets": 3,
+    "rest": 180,
+    "secondsPerRep": 3,
+    "preparation": 120,
+    "records": [],
+    "active": null
+}

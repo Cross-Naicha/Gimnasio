@@ -1,0 +1,18 @@
+{
+    "id": "main-0",
+    "name": "Bench press",
+    "kind": "principal",
+    "equipment": "bar",
+    "sets": 3,
+    "rest": 180,
+    "secondsPerRep": 3,
+    "preparation": 120,
+    "records": [
+        {
+            "id": "initial",
+            "kg": 102.5,
+            "date": ""
+        }
+    ],
+    "active": "initial"
+}

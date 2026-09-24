@@ -1,0 +1,12 @@
+{
+    "id": "main-1",
+    "name": "Squats",
+    "kind": "principal",
+    "equipment": "bar",
+    "sets": 3,
+    "rest": 180,
+    "secondsPerRep": 3,
+    "preparation": 120,
+    "records": [],
+    "active": null
+}

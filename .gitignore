@@ -1,0 +1,3 @@
+# Archivos auxiliares de trabajo y capturas; no son parte de la aplicación.
+.work/
+node_modules/

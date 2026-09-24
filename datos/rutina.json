@@ -1,0 +1,34 @@
+{
+    "version": 1,
+    "session": 0,
+    "stage": 0,
+    "warmup": 0,
+    "crossfit": 0,
+    "sessions": [
+        {
+            "exercises": [
+                "ejercicios/bench-press.json"
+            ]
+        },
+        {
+            "exercises": [
+                "ejercicios/squats.json"
+            ]
+        },
+        {
+            "exercises": [
+                "ejercicios/jalon-amplio.json"
+            ]
+        },
+        {
+            "exercises": [
+                "ejercicios/deadlift.json"
+            ]
+        },
+        {
+            "exercises": [
+                "ejercicios/shoulder-press.json"
+            ]
+        }
+    ]
+}
